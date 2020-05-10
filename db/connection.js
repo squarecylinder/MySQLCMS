@@ -6,7 +6,8 @@ const connection = mysql.createConnection({
   // Your username
   user: "root",
   // Your password
-  password: "HaileyP316",
+  //Removed my password because this is a public file now.
+  password: "",
   database: "employees"
 });
 
